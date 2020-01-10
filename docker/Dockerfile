@@ -1,4 +1,4 @@
-FROM nvidia/cuda:10.2-devel-ubuntu16.04
+FROM nvidia/cuda:10.1-devel-ubuntu16.04
 # NOTE: build this image from dir above Dockerfile location
 # USE BASH
 SHELL ["/bin/bash", "-c"]
